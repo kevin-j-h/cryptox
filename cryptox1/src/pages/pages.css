@@ -1,0 +1,144 @@
+/* home.css */
+.hero {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .search {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .search-form {
+    margin-bottom: 10px;
+  }
+  
+  .search-form input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .search-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .view-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .buy-sell {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .buy-sell h4 {
+    margin: 0;
+    padding: 10px;
+    background-color: #f2f2f2;
+    display: inline-block;
+    border-radius: 5px;
+  }
+  
+  /* login.css */
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-box {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .login-box h1 {
+    margin: 0;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  
+  .input-group button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  /* Add more CSS for other components as needed */
+/* wallet.css */
+.wallet {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .wallet-info {
+    margin-bottom: 20px;
+  }
+  
+  .wallet-actions {
+    margin-top: 20px;
+  }
+  
+  /* transactions.css */
+  .transactions {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* watchlist.css */
+  .watchlist {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* settings.css */
+  .settings {
+    text-align: center;
+    padding: 20px;
+  }
+    

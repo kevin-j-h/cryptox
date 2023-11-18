@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom'; // Import Link from react-router-dom
+import './pages.css';
 
 function LoginPage({ setAuthenticated }) {
   const [username, setUsername] = useState('');

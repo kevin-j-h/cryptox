@@ -1,6 +1,6 @@
 import React from 'react';
 // import Navbar from './components/navbar';
-
+import './pages.css';
 
 function Serttings() {
   return (

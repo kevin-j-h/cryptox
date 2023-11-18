@@ -40,3 +40,30 @@
 .read-the-docs {
   color: #888;
 }
+
+/* styles.css */
+.nav-links {
+  overflow: hidden;
+  background-color: #333; /* Set the background color */
+}
+
+.nav-links a {
+  float: left;
+  display: block;
+  color: #f2f2f2; /* Set the text color */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  background-color: #ddd; /* Change the background color on hover */
+  color: black; /* Change the text color on hover */
+}
+
+/* Clear floats after the navbar */
+.nav-links::after {
+  content: "";
+  clear: both;
+  display: table;
+}
